@@ -1,6 +1,6 @@
-<!-- <?php
+<?php
    include('../private/session.php');
-?> -->
+?>
 
 <!DOCTYPE html>
 <html lang="en">
