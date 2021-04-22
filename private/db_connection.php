@@ -7,7 +7,7 @@
 // Credentials
 $dbhost = '127.0.0.1:3306';
 $dbuser = 'root';
-$dbpass = 'Inh@3142';
+$dbpass = '';
 $dbname = 'employees'; 
 
 // Create a database connection
